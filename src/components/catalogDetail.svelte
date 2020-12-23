@@ -54,7 +54,7 @@ function deleteHandler(id) {
                                             <input type="text" bind:value={car.brand} class="form-control" placeholder="Brand" aria-label="Brand">
                                         </div>
                                         <div class="col">
-                                            <label for="validationCustom04" class="form-label">Fuel</label>
+                                            <label for="validationCustom04" class="form-label">Model</label>
                                             <input type="text" bind:value={car.model} class="form-control" placeholder="Fuel" aria-label="Fuel">
                                         </div>
                                     </div>
