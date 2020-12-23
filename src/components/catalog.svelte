@@ -53,7 +53,7 @@ async function updateHandler(car) {
             alert(message);
             return;
         }
-        alert("Alteração realizada com sucesso!");
+        alert("Updated Successfully!");
     } catch (e) {
         alert("There was an error");
     }
